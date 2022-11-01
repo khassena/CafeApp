@@ -297,7 +297,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SQMYH8B9K2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = UISwitch/Info.plist;
+				INFOPLIST_FILE = CafeApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -326,7 +326,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = SQMYH8B9K2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = UISwitch/Info.plist;
+				INFOPLIST_FILE = CafeApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
