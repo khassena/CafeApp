@@ -44,7 +44,7 @@
 		FA7F505428D5F33200749A60 = {
 			isa = PBXGroup;
 			children = (
-				FA7F505F28D5F33200749A60 /* UISwitch */,
+				FA7F505F28D5F33200749A60 /* CafeApp */,
 				FA7F505E28D5F33200749A60 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +57,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FA7F505F28D5F33200749A60 /* UISwitch */ = {
+		FA7F505F28D5F33200749A60 /* CafeApp */ = {
 			isa = PBXGroup;
 			children = (
 				FA7F506028D5F33200749A60 /* AppDelegate.swift */,
@@ -70,7 +70,7 @@
 				FA7F506B28D5F33300749A60 /* LaunchScreen.storyboard */,
 				FA7F506E28D5F33300749A60 /* Info.plist */,
 			);
-			path = UISwitch;
+			path = CafeApp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FA7F505828D5F33200749A60 /* Build configuration list for PBXProject "UISwitch" */;
+			buildConfigurationList = FA7F505828D5F33200749A60 /* Build configuration list for PBXProject "CafeApp" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -349,7 +349,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FA7F505828D5F33200749A60 /* Build configuration list for PBXProject "UISwitch" */ = {
+		FA7F505828D5F33200749A60 /* Build configuration list for PBXProject "CafeApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FA7F506F28D5F33300749A60 /* Debug */,
